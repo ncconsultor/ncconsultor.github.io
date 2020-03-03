@@ -70,7 +70,6 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  sass_dir: _sass /hoosegow/.bundle/ruby/2.5.0/gems/jekyll-theme-primer-0.5.4/_sass
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
