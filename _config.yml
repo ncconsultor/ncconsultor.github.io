@@ -20,7 +20,7 @@ description: Mi sitio personal
 
 # List of links in the navigation bar
 navbar-links:
-  Inicio: ""
+  Inicio: "/"
   Acerca de mi: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
