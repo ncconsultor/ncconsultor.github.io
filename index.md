@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Consultoría en TI
+title: Consultoría en TI
+subtitle: Coordinación, análisis, desarrollo, asesorías, cursos, etc...
 use-site-title: true
 ---
 
