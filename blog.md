@@ -1,8 +1,7 @@
 ---
 layout: page
-title: My website
-subtitle: Servicios de consultoría en TI
-use-site-title: true
+title: Blog
+subtitle: No hay tema, todo es válido
 ---
 
 <div class="posts-list">
