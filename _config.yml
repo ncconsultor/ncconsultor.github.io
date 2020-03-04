@@ -21,7 +21,7 @@ description: Mi sitio personal y profesional
 # List of links in the navigation bar
 navbar-links:
   Inicio: "/"
-  Blog: "blog"
+  Acerca de mi: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
@@ -199,7 +199,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '/_posts'
+  rooturl: '_posts'
   media: 'img'
   ignore:
     - 404.html
