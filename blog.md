@@ -1,8 +1,7 @@
 ---
 layout: page
 title: My website
-subtitle: Servicios de consultoría en TI
-use-site-title: true
+subtitle: consultoría en TI
 ---
 
 <div class="posts-list">

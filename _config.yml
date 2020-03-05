@@ -4,7 +4,7 @@
 title: Abraham Noriega
 
 # Short description of your site
-description: Mi sitio personal
+description: Servicios profesionales de consultoría
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,8 +20,8 @@ description: Mi sitio personal
 
 # List of links in the navigation bar
 navbar-links:
-  Inicio: "/"
-  Acerca de mi: "aboutme"
+  Inicio: "/index"
+  Blog: "/blog"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
