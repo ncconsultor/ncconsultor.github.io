@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Consultoría en TI
-subtitle: Coordinación, análisis, desarrollo, asesorías, cursos, etc...
-use-site-title: true
+title: About me
+subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Abraham Noriega. I have the following qualities:
+My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
